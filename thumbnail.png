@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- ✅ SEO and Social Sharing Metadata -->
+    <meta name="description" content="Big Bang Fireworks – Lighting up your skies since… right now." />
+    <meta property="og:title" content="bigbangfireworks.llc" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bigbangfireworks.github.io/" />
+    <meta property="og:image" content="https://bigbangfireworks.github.io/images/your-thumbnail.png" />
+  <!-- Fonts and CSS after SEO tags -->
+  <link href="https://fonts.googleapis.com/css?family=Adamina|Roboto:300,400,700&display=swap" rel="stylesheet">
+  <style>
+    /* your CSS here */
+  </style>
+</head>
+
+  :root {
+  --primary-color: #ff9900;
+  --text-dark: #1c1c1c;
+}
+
+body {
+  margin: 0;
+  font-family: 'Adamina', serif;
+  background-color: var(--text-dark);
+  color: #f9f9f9;
+}
+
+header {
+  background-color: var(--primary-color);
+  padding: 1rem;
+  text-align: center;
+}
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Big Bang Fireworks</title>
+  <link href="https://fonts.googleapis.com/css?family=Adamina|Roboto:300,400,700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Adamina', serif;
+      background-color: #1c1c1c;
+      color: #f9f9f9;
+    }
+    header {
+      background-color: #ff9900;
+      padding: 1rem;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .content {
+      padding: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Big Bang Fireworks</h1>
+  </header>
+  <div class="content">
+    <p>Lighting up your skies since… right now. 🎆</p>
+    <!-- More content will go here -->
+  </div>
+</body>
+</html>
